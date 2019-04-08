@@ -1,2 +1,2 @@
-this is just an example
-to show differences in files
+this is just a simple example
+that I made for practice
